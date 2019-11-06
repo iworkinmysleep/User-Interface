@@ -64,6 +64,20 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-.navigation{
-	padding: 
+
+.logo{
+	height: 20px
+}
+
+.navigation a{
+	margin: 0, auto;
+	width: 100%;
+	padding: 20px;
+	text-decoration: none;
+	display:float;
+}
+
+h1{
+	font-size: 35px;
+	text-align: left;
 }
